@@ -38,6 +38,8 @@ Why Do We Need DevOps & SRE in the Release Process?
 
 
 Challenges That DevOps & SRE Solve:
+
+  
   Challenge                             DevOps Approach                       SRE Approach
 1]Slow and Error-Prone Deployments      CI/CD pipelines for automation       Monitoring deployment impact 
 
