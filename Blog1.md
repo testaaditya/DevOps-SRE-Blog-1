@@ -1,4 +1,5 @@
 Understanding DevOps and SRE: Why They Matter in Modern Software Delivery
+
 🚀 Introduction
 In today's fast-paced tech world, ensuring smooth application releases is critical. DevOps and Site Reliability Engineering (SRE) play a crucial role in streamlining this process. While both aim to improve software delivery and system reliability, they follow different approaches.
 
