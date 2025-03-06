@@ -13,19 +13,29 @@ Why Do We Need DevOps & SRE in the Release Process?
 
 🔹 DevOps: Speed & Automation in Software Delivery.
 
+
+
 1]Eliminates manual errors through automation.
 2]Uses CI/CD pipelines to deploy changes faster.
 3]Ensures consistency across environments with containers (Docker, Kubernetes).
 4]Implements Infrastructure as Code (Terraform, Ansible) for efficient resource management.
 
+
+
 🔹 SRE: Ensuring Reliability & System Stability.
+
+
 
 1]Focuses on uptime, availability, and scalability.
 2]Implements monitoring & logging (Prometheus, Grafana, ELK).
 3]Uses Service Level Indicators (SLIs) & Service Level Objectives (SLOs) to measure system performance.
 4]Automates incident response and rollback mechanisms to reduce downtime.
 
+
+
 🔸 DevOps accelerates the release process, while SRE ensures its reliability.
+
+
 
 Challenges That DevOps & SRE Solve:
   Challenge                             DevOps Approach                       SRE Approach
@@ -39,11 +49,15 @@ Challenges That DevOps & SRE Solve:
 
 5]Infrastructure Scalability Issues     Infrastructure as Code (IaC)         Load balancing & auto-scaling
 
+
+
 🔸 DevOps removes bottlenecks, and SRE ensures system reliability under pressure.
 
  Roles & Responsibilities of DevOps & SRE Engineers:
  
  🔹 DevOps Engineer Responsibilities:
+
+
 
 ✔️ Automating software deployment with CI/CD tools (Jenkins, GitHub Actions).
 ✔️ Managing infrastructure using Terraform, Ansible.
@@ -51,7 +65,10 @@ Challenges That DevOps & SRE Solve:
 ✔️ Deploying applications in AWS, Azure, or GCP.
 ✔️ Ensuring security best practices in the release process.
 
+
+
 🔹 SRE Engineer Responsibilities:
+
 
 ✔️ Ensuring high availability & system performance.
 ✔️ Defining SLAs, SLOs, and SLIs for service reliability.
