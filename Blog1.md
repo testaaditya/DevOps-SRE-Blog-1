@@ -76,7 +76,11 @@ Challenges That DevOps & SRE Solve:
 ✔️ Handling incident response & post-mortems.
 ✔️ Implementing chaos engineering to test system resilience.
 
+
+
 🔸 DevOps focuses on automation, while SRE ensures the system runs smoothly even under failures.
+
+
 
 🚀 Final Thoughts
 
